@@ -1,0 +1,51 @@
+ body{
+   background-color: hsl(0, 0%, 93%);
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }
+
+ .container{
+   display: flex;
+   flex-direction: column;
+   margin: 0 auto;
+   width: 800px;
+ }
+
+ .addNewTask{
+   background-color: white;
+   padding: 15px;
+   font-weight:bold;
+   margin-bottom: 2px;
+ }
+
+ .newText{
+   padding: 10px;
+   width: 600px;
+ }
+
+ .addPlace{
+   display: flex;
+   justify-content: space-around;
+   background-color: white;
+   padding: 20px;
+ }
+
+ .button{
+   background-color: teal;
+   color: hsl(0, 0%, 95%);
+   border: none;
+   cursor: pointer;
+ }
+
+ .task-list{
+   background-color: white;
+   padding: 15px;
+   margin-top: 10px;
+   font-weight: bold;
+ }
+ 
+ .Tasks{
+   background-color: white;
+   padding: 40px;
+    color: hsl(0, 0%, 50%);
+   margin-top: 2px;
+  }
