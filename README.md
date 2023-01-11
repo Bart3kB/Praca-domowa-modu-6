@@ -1,1 +1,0 @@
-# Praca-domowa-modu-6
